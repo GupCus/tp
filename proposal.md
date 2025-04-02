@@ -5,7 +5,7 @@
 ### Integrantes
 
 - 52818 - Barroso Bollero, Agustín
-- 52961 - Figueroa, Francisco Alejandro
+- 52962 - Taborda, Ignacio
 
 ### Repositorios
 

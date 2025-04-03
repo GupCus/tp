@@ -7,6 +7,7 @@
 - 52818 - Barroso Bollero, Agustín
 - 52962 - Taborda, Ignacio
 - 52961 - Figueroa, Francisco Alejandro
+- 52847 - Taborda, Santiago
 
 ### Repositorios
 

@@ -13,13 +13,12 @@
 
 - [frontend app](https://github.com/GupCus/Descalifica2-front)
 - [backend app](https://github.com/GupCus/Descalifica2-back)
-  _Nota_: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
 
 ### Descripción
 
-_2 a 6 líneas describiendo el negocio (menos es más)_
+Es un página web donde encontraremos un calendario, foro, noticias, prode, archivo de carreras, historiales, etc. Sobre la formula 1 y demás categorias de automovilismo. Con el objetivo de mantener informada a toda la comunidad amante del deporte automotor, informando las fechas de Gran Premio, horarios y demás. También, los usuarios se podrán crear un perfil personalizado con el que podrán participar del foro identificandose con un nombre, escuderia, circuito, auto favorito, etc. Donde podrán intercambiar opiniones con los demás integrantes de la comunidad.
 
 ### Modelo
 

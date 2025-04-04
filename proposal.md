@@ -18,7 +18,7 @@
 
 ### Descripción
 
-Es un página web donde encontraremos un calendario, foro, noticias, prode, archivo de carreras, historiales, información sobre cada circuito, pilotos, etc. Sobre la formula 1 y demás categorias de automovilismo. Con el objetivo de mantener informada a toda la comunidad amante del deporte automotor, informando las fechas de Gran Premio, horarios y demás. También, los usuarios se podrán crear un perfil personalizado con el que podrán participar del foro identificandose con un nombre, escuderia, circuito, auto favorito, etc. Donde podrán intercambiar opiniones con los demás integrantes de la comunidad.
+Descalifica2 es un sitio web dedicado principalmente a la Fórmula 1, donde podrás consultar el calendario de carreras, acceder a información detallada sobre cada evento y mantenerte al día con las noticias sobre automovilismo. El objetivo del sitio es mantener informada a toda la comunidad amante del deporte automotor, brindando las fechas de cada Gran Premio, dónde verlo en vivo, y datos sobre las escuderías participantes junto a sus pilotos. Los usuarios pueden crear un perfil personalizado, indicando su nombre, escuderías, circuitos y pilotos favoritos para adaptar su experiencia en la plataforma. Además, podrán participar en un foro donde intercambiar opiniones, debatir y compartir su pasión con otros fanáticos de la Fórmula 1.
 
 ### Modelo
 
